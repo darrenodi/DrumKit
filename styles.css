@@ -11,6 +11,12 @@ h1 {
 
 }
 
+h3{
+  color: #0db6ee;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
@@ -50,7 +56,7 @@ footer {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 5% auto;
 }
 
 .game-over {
